@@ -1,0 +1,32 @@
+ body {
+  background-color: grey;
+  font: Arial;
+  text-align: center;
+}
+
+.header-box {
+  border: 1px solid;
+  background-color: lightgrey;
+}
+
+body header h4 {
+
+}
+
+.nav-box {
+  border: 1px solid;
+  margin: 20px;
+  background-color: white;
+}
+
+.sidebar-box {
+  border: 1px solid;
+  background-color: lightgrey;
+  width: 30%;
+}
+
+.sidebar-header {
+  border: 1px solid;
+  background-color: white;
+  margin: 10px;
+}
